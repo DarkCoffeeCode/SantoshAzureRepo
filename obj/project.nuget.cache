@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cCPe9r9Glwh5R9MIBoHoJegbk6MauC+G9m7LDMW0tD+tLFNaIX36UgacCGiY3e/Cnm0HGxhM8qFEhmISbQkiQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arvind.kumar\\source\\repos\\SantoshAzure\\SantoshAzure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arvind.kumar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
