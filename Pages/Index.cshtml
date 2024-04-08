@@ -1,0 +1,17 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the Weather API Page</h1>
+
+    <div>
+        <form method="post" enctype="multipart/form-data" action="/Weather/Index">
+        <p>Enter the City</p> 
+        <input type="text" placeholder="paris" id="CityName" name="CityName" />
+        <button type="submit">Fetch Weather Deets</button>
+        </form>
+    </div>
+</div>
